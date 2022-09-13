@@ -1,5 +1,7 @@
 $title: super shadowy 👥
 $description: a place for practitioners and autodidacts to learn from each other
+$theme: dark
+$accent-color: #12b3cd;
 
 [home]
     # SUPER SHADOWY 👥
@@ -232,5 +234,3 @@ $style:
     }
     </style>
 
-$accent-color: #12b3cd;
-$background-color: #505050;
