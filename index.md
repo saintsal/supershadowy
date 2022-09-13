@@ -118,6 +118,8 @@ $description: a place for practitioners and autodidacts to learn from each other
     -
     *Be well, super shadowy friends.  
     Bring exploration and discovery to your peers.* 🫂
+
+    *a KERNEL project*
     
     [[demo]]
         ![](images/demo.png)
