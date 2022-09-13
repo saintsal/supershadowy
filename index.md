@@ -4,9 +4,9 @@ $description: a place for practitioners and autodidacts to learn from each other
 [home]
     # SUPER SHADOWY 👥
 
-    Super Shadowy meets are a place for practitioners and autodidacts to learn from each other.
+    Super Shadowy meets are a place for practitioners and autodidacts to learn from each other. We share  **first-hand experience only** to keep things real.
 
-    They're [decentralised](#dectralised): 
+    We're [decentralised](#dectralised): 
     * Anyone can schedule a super shadowy meet
     * Nobody is in charge
     * There are no official communication channels
@@ -69,9 +69,9 @@ $description: a place for practitioners and autodidacts to learn from each other
 // - Anyone attending can present, with priority to [those most experienced](#experience)
 
     ## Rules
+    - **First-hand experience only** to keep things real
     - **Everyone is a learner**
         Presentations start with a one-liner on what you're trying to figure out next
-    - **First-hand experience only** to keep things real
     - **No slides**  
         Screenshare your actual work, show it live
     - **No recording**
