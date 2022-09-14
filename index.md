@@ -8,7 +8,7 @@ $accent-color: #12b3cd;
 
     Super Shadowy meets are for practitioners and autodidacts to learn from each other. 
 
-    **Safe spaces of practitioners only.**   When it's just us, we can be truly honest about how things are going.  (For example, coders-only means nobody hustling to recruit them.  Founders-only means no investors, employees or clients listening to impress.)
+    **Safe spaces of practitioners only.**   When it's just us, we can be truly honest about how things are going.  (For example, coders-only means nobody hustling to recruit them.  Founders-only means no investors, employees or clients to impress.)
 
     We share **first-hand experience only** to keep things real, avoid hype, and expose all those little tricks you do naturally but never think to explain.
 
@@ -30,29 +30,29 @@ $accent-color: #12b3cd;
     <div class="gallery">
         <div>
             <h3>
-                Demo
+                <a href="#demo">Demo</a>
             </h3>
             A screenshare showing what you've worked on.
             <img src="images/demo.png" /><br/>
         </div>
         <div>
             <h3>
-                Clinic
+                <a href="#clinic">Clinic</a>
             </h3>
-            A screenshare with a live diagnosis from someone more experienced.
+            A screenshare with a live diagnosis from someone with useful experience.
             <img src="images/clinic.png" /><br/>
         </div>
     </div>
     
 
 
-    ### 2. Add a feedback format (⏰ +10/15 minutes) 
+    ### 2. Add some tasty feedback (⏰ +10/15 minutes) 
 
 
     <div class="gallery">
         <div>
             <h3>
-                Interview
+                <a href="#interview">Interview</a>
             </h3>
             <img src="images/interview.png" /><br/>
             Anyone in the audience can take the stage as an interviewer.
@@ -129,35 +129,80 @@ $accent-color: #12b3cd;
     *a [KERNEL](https://kernel.community)  adventure*
     
     [[demo]]
+        # Demo
         ![](images/demo.png)
         ⏰ 3-10 minutes 
 
-        asdfjk
+        Think of demos as showing, rather than presenting.  If a few friends popped by for 10 minutes, and you wanted to show them what you've done, what parts would skip to?
+
+        Remember to always start with what you're trying to figure out next.
+
+        The best demos are where you load up a bunch of tabs, or files -- where you normally work.  
+
+        Even when things "go wrong" in live demos, that's a good thing here -- it exposes your setup and how you solve problems. This gets you useful feedback that you might not even think to ask for, and you can always demo again next time.  
+
+        
 
 
     [[clinic]]
         ![](images/clinic.png)
-        ⏰ 5-15 minutes 
+        # Clinic
+        ⏰ 5-15 minutes total (15 minutes hard max)
 
-        Do a screenshare with a helper who treats you like an apprentice. 
+        ### Your "symptoms"  ⏰ 1 minute
+        Start with a question, or any "symptoms" that are on your mind.
 
-        Let them ask questions, coach you or pair up with you to get something fixed.
+        ### Find your diagnoser ⏰ 1-3 minutes
+        Ideally, you have an idea of who you'd like to help you, and may have even asked them beforehand.
+
+        If not, ask people from the audience to share a one-liner of what experience they have (in chat or voice, but keep it short)
+
+        Even someone is only a few steps ahead of you, or have a different approach than you'd like, Clinics work great to open new doors.
+
+        Then pick someone and start.
+
+        (If there's really nobody suitable, then switch to a basic [demo](#demo).)
+
+        ### The Diagnosis ⏰ 10-15 minutes 
+
+        Do a screenshare, and ask your helper to treat you like an apprentice.  
+
+        Let them ask questions, and to coach you.
+
+        You might even get to work together, pairing up to try something or fix something.
+
+        User the time contraint to help focus on something specific.
+
+        Keep in mind, you'll also learn more from the group feedback session afterwards.
+
 
        
     [[interview]]
+        # Interview 
+
         ![](images/interview.png)
         ⏰ 10-15 minutes 
 
-         Like a fireside chat, exceptt everyone in the room can act as your interviewer.  A few rules:
+         Like a fireside chat, except everyone in the room can act as your interviewer.  
+
+         To allow everyone a chance but also avoid shallow Q&A, there are a few special rules:
+
          - Everyone keeps their mic off.
          - Raise your hand to join as an interviewer.
          - Only 2 interviewers at a time.  
          - When a third interviewer raises their hand, one of the current interviewers must step down by turning off their mic. Then the person waiting can turn their mic on.
 
-        #### Alternative for large groups for high-profile presenters: Tag Team Interview
-        - Select 2 or 3 interviewers in advance, choosing a diverse range of interviewers who:
-             - have current challenges
-             - those challenges represent the main constituents in the group
+         (If nobody steps down within 30 seconds, the person with their hand raised turns on their mic, and asks a specific interviewer for "their chair".)
+
+         Even if an interviewer steps down, they can always rejoin later by raising their hand again.
+
+        #### Tag Team Interviews - for large groups for high-profile presenters
+
+        Sometimes, it doesn't make sense to allow anyone to join the stage.  
+
+        In these cases, select 2 or 3 interviewers in advance, choosing a diverse range of interviewers who have different challenges, and can represent the range of backgrounds in the audience. (ie beginner, advanced, indie, large org)
+
+        If specific topics come up, hey can also appoint specific people from the audience to temporarily join as interviewers.
 
 
     [[ideastorm]]
@@ -227,11 +272,11 @@ $style:
     }
     img {
         max-height: 150px;
-        padding: 1em;
+        padding: 2em;
     }
     .gallery {
         display: flex;
-        gap: 50px;
+        gap: 5rem;
     }
     
     h1, h2 {
