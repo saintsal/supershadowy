@@ -39,7 +39,7 @@ $accent-color: #12b3cd;
             <h3>
                 Clinic
             </h3>
-            A screenshare with a live diagnosis from someone experienced.
+            A screenshare with a live diagnosis from someone more experienced.
             <img src="images/clinic.png" /><br/>
         </div>
     </div>
@@ -92,7 +92,7 @@ $accent-color: #12b3cd;
 
     ## FAQ
 
-    [Can I share something I learned from someone?]
+    [Can I share something I learned from someone else?]
         Yes!  Sharing your sources and inspirations is useful for others to learn from.  The first-hand only rule just means that you must share your experience of it.  This avoids people presenting things they haven't verified though their own experience and in their own context.
 
     -
