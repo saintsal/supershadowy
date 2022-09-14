@@ -4,7 +4,7 @@ $theme: dark
 $accent-color: #12b3cd;
 
 [home]
-    # SUPER SHADOWY 👥
+    # SUPER SHADOWY MEETS 👥
 
     Super Shadowy meets are for practitioners and autodidacts to learn from each other. 
 
