@@ -8,7 +8,7 @@ $accent-color: #12b3cd;
 
     Super Shadowy meets are for practitioners and autodidacts to learn from each other. 
 
-    **They are safe spaces of practitioners only.**  No "lookey-loos" or "supporters" please.  When it's just us, we can be truly honest about how things are going.  (For example, coders only means nobody lurking to recruit.  Founders only means no investors or employees listening to sugar-coat things for.)
+    **Safe spaces of practitioners only.**  No "lookey-loos" or "supporters" please.  When it's just us, we can be truly honest about how things are going.  (For example, coders-only means nobody lurking to recruit.  Founders-only means no investors or employees listening to sugar-coat things for.)
 
     We share **first-hand experience only** to keep things real, and avoid hype.
 
