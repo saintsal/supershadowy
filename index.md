@@ -6,11 +6,16 @@ $accent-color: #12b3cd;
 [home]
     # SUPER SHADOWY 👥
 
-    Super Shadowy meets are for practitioners and autodidacts to learn from each other. We share **first-hand experience only** to keep things real.
+    Super Shadowy meets are for practitioners and autodidacts to learn from each other. 
 
-    We're decentralised: 
+    **They are safe spaces of practitioners only.**  No "lookey-loos" or "supporters" please.  When it's just us, we can be truly honest about how things are going.  (For example, coders only means nobody lurking to recruit.  Founders only means no investors or employees listening to sugar-coat things for.)
+
+    We share **first-hand experience only** to keep things real, and avoid hype.
+
+    We're **decentralised**:
     * Anyone can schedule a super shadowy meet
     * Nobody is in charge
+    * Access by personal invite only
     * There are no official communication channels
 
        
@@ -20,7 +25,7 @@ $accent-color: #12b3cd;
 
     👥 Each session presenter picks how to share, and how they want feedback:
 
-    ### 1. Pick a sharing format
+    ### 1. Pick a sharing format (⏰ 5-10 minutes max) 
 
     <div class="gallery">
         <div>
@@ -41,7 +46,7 @@ $accent-color: #12b3cd;
     
 
 
-    ### 2. Add a feedback format
+    ### 2. Add a feedback format (⏰ +10/15 minutes) 
 
 
     <div class="gallery">
@@ -79,10 +84,11 @@ $accent-color: #12b3cd;
     - **No recording**
         This is a safe space to share and talk openly
     - **No blabla** 
-        Keep the discussion focused on the presenters demo, challenges and their specific context.  Avoid generalities and pet theories.
+        Keep the discussion focused on the presenter's challenges and their specific context.  Avoid generalities and pet theories.
     - **Hand raises speak first** ✋
         To be inclusive to introverts
-
+    - **Cameras off** 
+        More relaxed, and anon-friendly
 
     ## FAQ
 
