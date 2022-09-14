@@ -16,7 +16,7 @@ $accent-color: #12b3cd;
     * Anyone can schedule a super shadowy meet
     * Nobody is in charge
     * There are no official communication channels
-    * Members invite members individually. 
+    * Members invite members individually
 
        
     ## MEET FORMAT
