@@ -13,9 +13,9 @@ $accent-color: #12b3cd;
     We share **first-hand experience only** to keep things real, and avoid hype.
 
     We're **decentralised**:
+    * Access by *personal invite only*
     * Anyone can schedule a super shadowy meet
     * Nobody is in charge
-    * Access by personal invite only
     * There are no official communication channels
 
        
