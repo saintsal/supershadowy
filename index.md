@@ -8,9 +8,9 @@ $accent-color: #12b3cd;
 
     Super Shadowy meets are for practitioners and autodidacts to learn from each other. 
 
-    **Safe spaces of practitioners only.**  No "lookey-loos" or "supporters" please.  When it's just us, we can be truly honest about how things are going.  (For example, coders-only means nobody lurking to recruit.  Founders-only means no investors or employees listening to sugar-coat things for.)
+    **Safe spaces of practitioners only.**   When it's just us, we can be truly honest about how things are going.  (For example, coders-only means nobody hustling to recruit them.  Founders-only means no investors, employees or clients listening to impress.)
 
-    We share **first-hand experience only** to keep things real, and avoid hype.
+    We share **first-hand experience only** to keep things real, avoid hype, and expose all those little tricks you do naturally but never think to explain.
 
     We're **decentralised**:
     * Anyone can schedule a super shadowy meet
@@ -76,7 +76,6 @@ $accent-color: #12b3cd;
 // - Anyone attending can present, with priority to [those most experienced](#experience)
 
     ## Rules
-    - **First-hand experience only** to keep things real
     - **Everyone is a learner**
         Presentations start with a one-liner on what you're trying to figure out next
     - **No slides**  
@@ -127,7 +126,7 @@ $accent-color: #12b3cd;
     *Be well, super shadowy friends.  
     Bring exploration and discovery to your peers.* 🫂
 
-    *a KERNEL project*
+    *a [KERNEL](https://kernel.community)  adventure*
     
     [[demo]]
         ![](images/demo.png)
