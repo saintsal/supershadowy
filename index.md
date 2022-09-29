@@ -8,15 +8,17 @@ $accent-color: #12b3cd;
 
     Super Shadowy meets are for practitioners and autodidacts to learn from each other. 
 
-    **Safe spaces of practitioners only.**   When it's just us, we can be truly honest about how things are going.  (For example, coders-only means nobody hustling to recruit them.  Founders-only means no investors, employees or clients to impress.)
+    **Practitioners only.**   When it's just us, we can be truly honest about how things are going.  (For example, builders only means nobody hustling to recruit.  Founders-only means no investors, employees or clients to impress.)
 
     We share **first-hand experience only** to keep things real, avoid hype, and expose all those little tricks you do naturally but never think to explain.
 
-    We're **decentralised**:
+    🫂 You can do a shadow meet just for you to share and get one-off help, or meet regularly as a group where multiple people can demo and get feedback.
+
+    🌌 We're **decentralised**:
+    * There are no official communication channels
     * Anyone can schedule a super shadowy meet
     * Nobody is in charge
-    * There are no official communication channels
-    * Members invite members individually
+    * You decide who to invite
 
        
     ## MEET FORMAT
@@ -59,14 +61,14 @@ $accent-color: #12b3cd;
         </div>
         <div>
             <h3>
-                Ideastorm
+                <a href="#ideastorm">Ideastorm</a>
             </h3>
             <img src="images/ideastorm.png" /><br/>
             Rapid-fire suggestions or ideas from the audience.
         </div>
         <div>
             <h3>
-                Battle
+                <a href="#battle">Battle</a>
             </h3>
             <img src="images/battle.png" /><br/>
             Pick a few people with cool moves to show you what they'd do.
@@ -86,8 +88,8 @@ $accent-color: #12b3cd;
         Keep the discussion focused on the presenter's challenges and their specific context.  Avoid generalities and pet theories.
     - **Hand raises speak first** ✋
         To be inclusive to introverts
-    - **Cameras off** 
-        More relaxed, and anon-friendly
+    - **Mics on, Cameras off** 
+        For a relaxed "living room" feeling, and anon-friendly
 
     ## FAQ
 
@@ -124,7 +126,7 @@ $accent-color: #12b3cd;
         
     -
     *Be well, super shadowy friends.  
-    Bring exploration and discovery to your peers.* 🫂
+    May you bring exploration and discovery to your peers.* 🫂
 
     *a [KERNEL](https://kernel.community)  adventure*
     
@@ -185,7 +187,7 @@ $accent-color: #12b3cd;
 
          Like a fireside chat, except everyone in the room can act as your interviewer.  
 
-         To allow everyone a chance but also avoid shallow Q&A, there are a few special rules:
+         To allow everyone a chance to ask, but also avoid shallow Q&A, there are a few special rules:
 
          - Everyone keeps their mic off.
          - Raise your hand to join as an interviewer.
@@ -196,7 +198,7 @@ $accent-color: #12b3cd;
 
          Even if an interviewer steps down, they can always rejoin later by raising their hand again.
 
-        #### Tag Team Interviews - for large groups for high-profile presenters
+        #### Tag Team Interviews - for large groups (30+) or high-profile presenters
 
         Sometimes, it doesn't make sense to allow anyone to join the stage.  
 
@@ -206,14 +208,48 @@ $accent-color: #12b3cd;
 
 
     [[ideastorm]]
+        # Ideastorming
+        ![](images/ideastorm.png)
         ⏰ 10-15 minutes 
+
+        A way to quickly get a wide range of possibilities by using the collective knowledge of the room.  
+
+        It works by opening a "sticky note" board like Figma or Miro for everyone, who adds notes on any ideas, links or references you should know.
+
+        There are 2 versions of Ideastorm:
+
         ### Rapid-fire
+        **Use this when you need ideas and inspiration.**
+
+        Ask a question and write it on the board.
+
+        Everyone just starts adding sticky notes in response.  The host watches the board, reading them out load, and asking any clarifying questions as they come up.
+
         ### Researched
+
+        **Use this when you want more informed options and opinions.**
+
+        Ask a question and write it on the board.
+
+        ⏰ Set a 5-10 minute timer, and ask everyone to research options for you, listing them quiety on their own section of the board.
+
+        ⏰ Then take 5 minutes to ask each person to tell everyone only their favourite one. 
 
 
     [[battle]]
+        # Battle
+        ![](images/battle.png)
         ⏰ 10-15 minutes 
-        Inspired by hip hop dance battles.
+
+        Battle Decks plays off the friendly rivalries in hip-hop, particularly B-Boy Dance Battles where dancers echo and riff of each other, trying to one-up each other with each response.
+
+        It's a great way to show off, play, get inspired and try new things.
+
+        After the demo, the challenger nominates a few people to battle.  They all turn on their screen shares, and ideally start with a file from the demo.
+
+        Then they work live, in parallel, for 10-15 minutes while everyone else watches and chats.  
+
+        In the end, the person who demoed says what they learned, and gives "crowns" to the battlers who they learned from.
 
 
 [[tips]]
